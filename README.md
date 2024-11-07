@@ -1,2 +1,2 @@
 # callback-promises
-callback , callback hell , promises
+Session 2 - callback , callback hell , promises
